@@ -1,0 +1,47 @@
+.form-heading{
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 0.5rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    color:#19105b
+}
+.form-label{
+    display: block;
+    font-size: 1.3rem;
+    margin-bottom: 1rem; 
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.input-elements{
+    padding: 1rem;
+    width: 90%;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+}
+.form-container{
+    margin: 1rem;
+}
+
+.button-container{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.button-container button{
+    background-color: #19105b;
+    padding: 1rem 3rem;
+    color : white;
+    font-size: 1.3rem;
+    border: 0;
+    outline: 0;
+}
+.Toastify__toast-icon div{
+    font-size: 2rem !important;
+}
+
+p{
+    font-size: 14px;
+    font-weight: bold;
+}

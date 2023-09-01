@@ -1,0 +1,13 @@
+.forget-password-container{
+    margin-top: 3rem;
+}
+
+.forget-password-container p{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.forget-password-container p span{
+    color:#19105b ;
+    font-weight: 900;
+}
